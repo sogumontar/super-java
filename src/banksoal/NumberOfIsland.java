@@ -44,7 +44,7 @@ public class NumberOfIsland {
         { 1, 0, 0, 1, 1 },
         { 0, 0, 0, 0, 0 },
         { 1, 0, 1, 0, 1 } };
-    numberOfIsland I = new numberOfIsland();
+    NumberOfIsland I = new NumberOfIsland();
     System.out.println("Number of islands is: " + I.countIslands(M));
 
   }
