@@ -4,11 +4,8 @@ package banksoal._30DayCodeHackerRank;
  * @author Sogumontar Hendra Simangunsong
  * @version : DataTypes, v 0.1 2/2/22 11:29 PM Sogumontar Hendra Exp $$
  */
-import java.io.*;
-import java.util.*;
-import java.text.*;
-import java.math.*;
-import java.util.regex.*;
+
+import java.util.Scanner;
 
 public class DataTypes {
 

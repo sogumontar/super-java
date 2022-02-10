@@ -4,7 +4,10 @@ package banksoal._30DayCodeHackerRank;
  * @author Sogumontar Hendra Simangunsong
  * @version : Operator, v 0.1 2/3/22 9:28 PM Sogumontar Hendra Exp $$
  */
-import java.io.*;
+
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
 class Result {
 
     /*

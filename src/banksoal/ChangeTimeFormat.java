@@ -4,6 +4,8 @@ import java.text.DateFormat;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
+import java.util.HashMap;
+import java.util.Map;
 
 /**
  * Created by Sogumontar Hendra Simangunsong on 9/4/2021.
@@ -18,5 +20,6 @@ public class ChangeTimeFormat {
       date = df.parse(input);
       output = outputformat.format(date);
       System.out.println(output);
+      Map<String,String>a = new HashMap<>();
   }
 }
