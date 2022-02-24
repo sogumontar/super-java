@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ee5d885-a5a2-404f-929e-07f14e45703f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/banksoal/ProblemSolving/DrawingBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/banksoal/ProblemSolving/DrawingBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/banksoal/URI/URI_1182.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,19 +15,49 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/banksoal/Kiek/Soal10.java">
+        <entry file="file://$PROJECT_DIR$/src/banksoal/ProblemSolving/DrawingBook.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+            <state relative-caret-position="285">
+              <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/banksoal/ProblemSolving/DrawingBook.java">
+        <entry file="file://$PROJECT_DIR$/src/banksoal/URI/URI_1181.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
-              <caret line="46" column="74" selection-start-line="46" selection-start-column="74" selection-end-line="46" selection-end-column="74" />
+            <state relative-caret-position="135">
+              <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/banksoal/URI/URI_1182.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="10">
+              <caret line="2" selection-start-line="2" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/banksoal/URI/URI_1183.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="54" column="5" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="54" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/banksoal/URI/URI_1184.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="28" column="56" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="28" selection-end-column="56" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -35,37 +66,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/banksoal/ProblemSolving/CatAndMouse.java">
+        <entry file="file://$PROJECT_DIR$/src/banksoal/URI/URI_1185.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/banksoal/Kiek/Soal7.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="5" selection-start-line="9" selection-start-column="4" selection-end-line="17" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/banksoal/Kiek/Soal8.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/banksoal/Kiek/Soal9.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="90">
+              <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -130,10 +134,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/banksoal/OrderCheck.java" />
-        <option value="$PROJECT_DIR$/src/banksoal/PangeranDiponegoro.java" />
-        <option value="$PROJECT_DIR$/src/banksoal/PerfectNumber.java" />
-        <option value="$PROJECT_DIR$/src/banksoal/Pridential_1.java" />
         <option value="$PROJECT_DIR$/src/banksoal/Server.java" />
         <option value="$PROJECT_DIR$/src/banksoal/SortDataFromTwoArray.java" />
         <option value="$PROJECT_DIR$/src/banksoal/SwapWithoutTemp.java" />
@@ -179,8 +179,12 @@
         <option value="$PROJECT_DIR$/src/banksoal/Kiek/Soal5.java" />
         <option value="$PROJECT_DIR$/src/banksoal/Kiek/Soal6.java" />
         <option value="$PROJECT_DIR$/src/banksoal/Kiek/Soal10.java" />
-        <option value="$PROJECT_DIR$/src/banksoal/ProblemSolving/DrawingBook.java" />
         <option value="$PROJECT_DIR$/src/banksoal/ProblemSolving/CatAndMouse.java" />
+        <option value="$PROJECT_DIR$/src/banksoal/ProblemSolving/DrawingBook.java" />
+        <option value="$PROJECT_DIR$/src/banksoal/URI/URI_1181.java" />
+        <option value="$PROJECT_DIR$/src/banksoal/URI/URI_1182.java" />
+        <option value="$PROJECT_DIR$/src/banksoal/URI/URI_1183.java" />
+        <option value="$PROJECT_DIR$/src/banksoal/URI/URI_1184.java" />
       </list>
     </option>
   </component>
@@ -194,7 +198,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -218,7 +221,7 @@
               <item name="super-java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="banksoal" type="462c0819:PsiDirectoryNode" />
-              <item name="ProblemSolving" type="462c0819:PsiDirectoryNode" />
+              <item name="URI" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="super-java" type="b2602c69:ProjectViewProjectNode" />
@@ -231,12 +234,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1645670949352" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1645689487450" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -264,7 +268,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CatAndMouse">
+  <component name="RunManager" selected="Application.URI_1184">
     <configuration name="CatAndMouse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="banksoal.ProblemSolving.CatAndMouse" />
       <module name="super-java" />
@@ -304,19 +308,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Soal5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="banksoal.Kiek.Soal5" />
-      <module name="super-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="banksoal.Kiek.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Soal6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="banksoal.Kiek.Soal6" />
       <module name="super-java" />
@@ -330,13 +321,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="URI_1184" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="banksoal.URI.URI_1184" />
+      <module name="super-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="banksoal.URI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.URI_1184" />
         <item itemvalue="Application.CatAndMouse" />
         <item itemvalue="Application.DrawingBook" />
         <item itemvalue="Application.Soal10" />
         <item itemvalue="Application.Soal6" />
-        <item itemvalue="Application.Soal5" />
       </list>
     </recent_temporary>
   </component>
@@ -366,18 +370,18 @@
       <workItem from="1645108926111" duration="1097000" />
       <workItem from="1645432557032" duration="3056000" />
       <workItem from="1645439968578" duration="656000" />
-      <workItem from="1645591722312" duration="2137000" />
+      <workItem from="1645591722312" duration="2251000" />
+      <workItem from="1645688712895" duration="630000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46096000" />
+    <option name="totallyTimeSpent" value="46840000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3104435" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31473532" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -391,11 +395,11 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32891566" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="智能研发" order="10" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32891566" />
+      <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -413,37 +417,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/banksoal/BusNeeded.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/banksoal/SubArrayDivision.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="795">
-          <caret line="63" column="29" selection-start-line="63" selection-start-column="29" selection-end-line="63" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/banksoal/PerfectNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/banksoal/NumberOfIsland.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/banksoal/Pattern/AdvancedPattern.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -715,6 +688,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/banksoal/Kiek/Soal10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/banksoal/ProblemSolving/CatAndMouse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/banksoal/Kiek/Soal7.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -764,27 +751,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/banksoal/Kiek/Soal10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/banksoal/ProblemSolving/DrawingBook.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="46" column="74" selection-start-line="46" selection-start-column="74" selection-end-line="46" selection-end-column="74" />
+        <state relative-caret-position="285">
+          <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/banksoal/ProblemSolving/CatAndMouse.java">
+    <entry file="file://$PROJECT_DIR$/src/banksoal/URI/URI_1181.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+        <state relative-caret-position="135">
+          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/banksoal/URI/URI_1182.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10">
+          <caret line="2" selection-start-line="2" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/banksoal/URI/URI_1183.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="54" column="5" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="54" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/banksoal/URI/URI_1184.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="28" column="56" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="28" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
