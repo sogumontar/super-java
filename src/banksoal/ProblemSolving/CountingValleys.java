@@ -28,7 +28,7 @@ public class CountingValleys {
 
             System.out.println(i + "   " + valleys );
         }
-        return valleys;
+         return valleys;
 
     }
 

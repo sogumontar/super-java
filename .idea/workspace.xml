@@ -15,28 +15,34 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/banksoal/Kiek/Soal5.java">
+        <entry file="file://$PROJECT_DIR$/src/banksoal/ProblemSolving/CountingValleys.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="9" selection-start-line="10" selection-start-column="8" selection-end-line="23" selection-end-column="9" />
+            <state relative-caret-position="450">
+              <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/banksoal/URI/URI_1181.java">
+        <entry file="file://$PROJECT_DIR$/src/banksoal/ProblemSolving/PickingNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+            <state relative-caret-position="480">
+              <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/banksoal/ProblemSolving/CountingValleys.java">
+        <entry file="file://$PROJECT_DIR$/src/banksoal/ProblemSolving/DesignerPDFViewer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+            <state relative-caret-position="215">
+              <caret line="22" column="28" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="22" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -131,8 +137,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/banksoal/FindPairs.java" />
-        <option value="$PROJECT_DIR$/src/banksoal/UcokDanBernyanyi.java" />
         <option value="$PROJECT_DIR$/src/banksoal/ValidAnagram.java" />
         <option value="$PROJECT_DIR$/src/banksoal/Segment.java" />
         <option value="$PROJECT_DIR$/src/banksoal/FindDigit.java" />
@@ -182,6 +186,8 @@
         <option value="$PROJECT_DIR$/src/banksoal/Kiek/Soal1.java" />
         <option value="$PROJECT_DIR$/src/banksoal/Kiek/Soal2.java" />
         <option value="$PROJECT_DIR$/src/banksoal/ProblemSolving/CountingValleys.java" />
+        <option value="$PROJECT_DIR$/src/banksoal/ProblemSolving/PickingNumbers.java" />
+        <option value="$PROJECT_DIR$/src/banksoal/ProblemSolving/DesignerPDFViewer.java" />
       </list>
     </option>
   </component>
@@ -194,7 +200,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -218,33 +224,19 @@
               <item name="super-java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="banksoal" type="462c0819:PsiDirectoryNode" />
-              <item name="Kiek" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="super-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="super-java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="banksoal" type="462c0819:PsiDirectoryNode" />
               <item name="ProblemSolving" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="super-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="super-java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="banksoal" type="462c0819:PsiDirectoryNode" />
-              <item name="ObjectToString.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1646104113823" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1646649494809" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -272,9 +264,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CountingValleys">
-    <configuration name="CatAndMouse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="banksoal.ProblemSolving.CatAndMouse" />
+  <component name="RunManager" selected="Application.DesignerPDFViewer">
+    <configuration name="CountingValleys" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="banksoal.ProblemSolving.CountingValleys" />
       <module name="super-java" />
       <extension name="coverage">
         <pattern>
@@ -286,8 +278,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountingValleys" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="banksoal.ProblemSolving.CountingValleys" />
+    <configuration name="DesignerPDFViewer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="banksoal.ProblemSolving.DesignerPDFViewer" />
+      <module name="super-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="banksoal.ProblemSolving.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PickingNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="banksoal.ProblemSolving.PickingNumbers" />
       <module name="super-java" />
       <extension name="coverage">
         <pattern>
@@ -325,26 +330,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="URI_1184" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="banksoal.URI.URI_1184" />
-      <module name="super-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="banksoal.URI.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DesignerPDFViewer" />
+        <item itemvalue="Application.PickingNumbers" />
         <item itemvalue="Application.CountingValleys" />
         <item itemvalue="Application.Soal2" />
         <item itemvalue="Application.Soal1" />
-        <item itemvalue="Application.URI_1184" />
-        <item itemvalue="Application.CatAndMouse" />
       </list>
     </recent_temporary>
   </component>
@@ -376,17 +368,19 @@
       <workItem from="1645439968578" duration="656000" />
       <workItem from="1645591722312" duration="2251000" />
       <workItem from="1645688712895" duration="2574000" />
-      <workItem from="1646103269450" duration="911000" />
+      <workItem from="1646103269450" duration="6141000" />
+      <workItem from="1646649259576" duration="243000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49695000" />
+    <option name="totallyTimeSpent" value="55168000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3190272" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32331902" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -395,12 +389,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3987952" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3987952" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32891566" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="智能研发" order="10" />
@@ -422,20 +416,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/banksoal/Subscription.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-177">
-          <caret line="36" column="55" selection-start-line="36" selection-start-column="55" selection-end-line="36" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/banksoal/SortDataFromTwoArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/banksoal/SimpleMultiplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -735,10 +715,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/banksoal/ProblemSolving/CountingValleys.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/banksoal/Kiek/Soal1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="5" selection-start-line="9" selection-start-column="4" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/banksoal/Kiek/Soal2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
@@ -780,17 +774,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/banksoal/Kiek/Soal2.java">
+    <entry file="file://$PROJECT_DIR$/src/banksoal/ProblemSolving/PickingNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="480">
+          <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/banksoal/ProblemSolving/CountingValleys.java">
+    <entry file="file://$PROJECT_DIR$/src/banksoal/ProblemSolving/DesignerPDFViewer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+        <state relative-caret-position="215">
+          <caret line="22" column="28" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="22" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
