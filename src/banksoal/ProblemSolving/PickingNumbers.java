@@ -20,22 +20,16 @@ public class PickingNumbers {
         System.out.println(pickingNumbers(list));
     }
     public static int pickingNumbers(List<Integer> a) {
-        // Write your code here
-        int counter=0;
-        int result =0;
-        Collections.sort(a);
-        System.out.println(a);
-        for(int i=0 ; i <a.size()-1 ; i++){
-            int comparation = a.get(i+1) - a.get(i);
-            System.out.println(counter + "   " + result + "    " + i + "   " + comparation);
-            if(comparation <= 1){
-                counter++;
-            }else{
-                counter=0;
-            }
-            if(result< counter){
-                result = counter;
-            }
+        int frequency[] = new int[101];
+        int result = Integer.MIN_VALUE;
+
+        for (int i = 0; i < a.size(); i++) {
+            int index = a.get(i);
+            frequency[index]++; //frequency[index]=frequency[index]+1
+        }
+
+        for (int i = 1; i <= 100; i++) {
+            result = Math.max(result, frequency[i] + frequency[i - 1]);
         }
         return result;
 
