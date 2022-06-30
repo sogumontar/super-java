@@ -3,11 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0ee5d885-a5a2-404f-929e-07f14e45703f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/super-java/META-INF/super-java.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/super-java/banksoal/Cermati/CermatiTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/super-java/banksoal/Cermati/CermatiTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/super-java/banksoal/Cermati/Result.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/super-java/banksoal/Cermati/Result.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/super-java/banksoal/ProblemSolving/PickingNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/super-java/banksoal/ProblemSolving/PickingNumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/banksoal/ProblemSolving/PickingNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/banksoal/ProblemSolving/PickingNumbers.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,18 +13,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/banksoal/Cermati/CermatiTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="33" column="22" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/banksoal/ProblemSolving/PickingNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -42,14 +25,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/banksoal/Segari/subSequence.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="54" column="9" lean-forward="true" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
+            <state relative-caret-position="345">
+              <caret line="55" column="19" lean-forward="true" selection-start-line="55" selection-start-column="19" selection-end-line="55" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/banksoal/Segari/checkCumulateResult.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="349">
+              <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
             </state>
           </provider>
         </entry>
@@ -148,7 +140,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/banksoal/ObjectToString.java" />
         <option value="$PROJECT_DIR$/src/banksoal/PutToMap.java" />
         <option value="$PROJECT_DIR$/src/banksoal/Subscription.java" />
         <option value="$PROJECT_DIR$/src/banksoal/SubArrayDivision.java" />
@@ -199,6 +190,7 @@
         <option value="$PROJECT_DIR$/src/banksoal/Cermati/CermatiTest.java" />
         <option value="$PROJECT_DIR$/src/banksoal/ProblemSolving/PickingNumbers.java" />
         <option value="$PROJECT_DIR$/src/banksoal/Segari/subSequence.java" />
+        <option value="$PROJECT_DIR$/src/banksoal/Segari/checkCumulateResult.java" />
       </list>
     </option>
   </component>
@@ -229,6 +221,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="banksoal" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="super-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="super-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="banksoal" type="462c0819:PsiDirectoryNode" />
+              <item name="Segari" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -240,11 +239,12 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1656580135814" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1656581969375" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Facets" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -268,7 +268,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.subSequence">
+  <component name="RunManager" selected="Application.checkCumulateResult">
     <configuration name="CermatiTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="banksoal.Cermati.CermatiTest" />
       <module name="super-java" />
@@ -295,8 +295,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Soal2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="banksoal.Kiek.HelpKiek.Soal2" />
+    <configuration name="Soal3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="banksoal.Kiek.HelpKiek.Soal3" />
       <module name="super-java" />
       <extension name="coverage">
         <pattern>
@@ -308,12 +308,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Soal3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="banksoal.Kiek.HelpKiek.Soal3" />
+    <configuration name="checkCumulateResult" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="banksoal.Segari.checkCumulateResult" />
       <module name="super-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="banksoal.Kiek.HelpKiek.*" />
+          <option name="PATTERN" value="banksoal.Segari.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -336,11 +336,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.checkCumulateResult" />
         <item itemvalue="Application.subSequence" />
         <item itemvalue="Application.PickingNumbers" />
         <item itemvalue="Application.CermatiTest" />
         <item itemvalue="Application.Soal3" />
-        <item itemvalue="Application.Soal2" />
       </list>
     </recent_temporary>
   </component>
@@ -381,12 +381,12 @@
       <workItem from="1653617988950" duration="13000" />
       <workItem from="1656482645783" duration="1598000" />
       <workItem from="1656484489659" duration="2041000" />
-      <workItem from="1656576918262" duration="2772000" />
+      <workItem from="1656576918262" duration="4648000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76805000" />
+    <option name="totallyTimeSpent" value="78681000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -429,7 +429,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/banksoal/dart2.java" />
     <entry file="file://$PROJECT_DIR$/src/banksoal/dartFunction.java" />
     <entry file="file://$PROJECT_DIR$/src/banksoal/Substring.java" />
     <entry file="file://$PROJECT_DIR$/src/banksoal/Bababibi.java">
@@ -806,11 +805,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/banksoal/Segari/subSequence.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="54" column="9" lean-forward="true" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
+        <state relative-caret-position="345">
+          <caret line="55" column="19" lean-forward="true" selection-start-line="55" selection-start-column="19" selection-end-line="55" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/banksoal/Segari/checkCumulateResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
         </state>
       </provider>
     </entry>
