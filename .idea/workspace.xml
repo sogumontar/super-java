@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0ee5d885-a5a2-404f-929e-07f14e45703f" name="Default Changelist" comment="" />
+    <list default="true" id="0ee5d885-a5a2-404f-929e-07f14e45703f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,15 +13,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/banksoal/LeetCode/SQL/595_big-countries.sql">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="87" selection-start-column="87" selection-end-column="87" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/Downloads/QRIS-Acquirer-Overall-Sample (1).sql">
           <provider selected="true" editor-type-id="text-editor">
@@ -47,9 +40,22 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/banksoal/LeetCode/SQL/584_FindCustomerReferee.sql">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="69" lean-forward="true" selection-start-line="1" selection-start-column="69" selection-end-line="1" selection-end-column="69" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/banksoal/LeetCode/SQL/183._Customers_Who_Never_Order.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="112" selection-start-line="4" selection-start-column="112" selection-end-line="4" selection-end-column="112" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -124,8 +130,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/banksoal/_30DayCodeHackerRank/Operator.java" />
-        <option value="$PROJECT_DIR$/src/banksoal/ChangeTimeFormat.java" />
         <option value="$PROJECT_DIR$/src/banksoal/Sempetgakya.java" />
         <option value="$PROJECT_DIR$/src/banksoal/dartFunction.java" />
         <option value="$PROJECT_DIR$/src/banksoal/dart2.java" />
@@ -175,6 +179,8 @@
         <option value="$PROJECT_DIR$/src/banksoal/LeetCode/SQL/big-countries.sql" />
         <option value="$PROJECT_DIR$/src/banksoal/SQL/DANA-fundcheck.sql" />
         <option value="$PROJECT_DIR$/src/banksoal/LeetCode/SQL/1757_RecyclableAndLowFatProducts.sql" />
+        <option value="$PROJECT_DIR$/src/banksoal/LeetCode/SQL/584_FindCustomerReferee.sql" />
+        <option value="$PROJECT_DIR$/src/banksoal/LeetCode/SQL/183._Customers_Who_Never_Order.sql" />
       </list>
     </option>
   </component>
@@ -238,7 +244,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1659368426525" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1659371497411" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -384,18 +390,18 @@
       <workItem from="1656664883750" duration="4387000" />
       <workItem from="1657102333551" duration="4858000" />
       <workItem from="1659259814933" duration="4805000" />
-      <workItem from="1659367747767" duration="423000" />
+      <workItem from="1659367747767" duration="851000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="93326000" />
+    <option name="totallyTimeSpent" value="93754000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.38054362" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.38054362" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -409,7 +415,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.20240964" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.20240964" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="智能研发" order="10" />
@@ -432,16 +438,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/banksoal/AdvancedMaps.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/banksoal/ObjectToString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -817,7 +813,18 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/banksoal/LeetCode/SQL/584_FindCustomerReferee.sql">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="69" lean-forward="true" selection-start-line="1" selection-start-column="69" selection-end-line="1" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/banksoal/LeetCode/SQL/183._Customers_Who_Never_Order.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="112" selection-start-line="4" selection-start-column="112" selection-end-line="4" selection-end-column="112" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
