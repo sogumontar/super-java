@@ -6,3 +6,4 @@ CASE
     ELSE salary end
 as bonus
 FROM Employees
+ORDER BY employee_id ASC
