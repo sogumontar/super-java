@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 import java.util.Scanner;
+import java.util.stream.Collectors;
 
 /**
  * @author Sogumontar Hendra Simangunsong
@@ -22,19 +23,12 @@ public class SalesByMatch {
     public static int sockMerchant(int n, List<Integer> ar) {
         // Write your code here
         int result =0;
-        Collections.sort(ar);
-        System.out.println(ar);
-        int tempValue = 0;
-        for(int i=0 ; i<n-1 ; i++){
-            if(ar.get(i) == ar.get(i+1)){
-                tempValue++;
-                System.out.println(i + " " + tempValue + "  " + ar.get(i) + "  " + ar.get(i+1));
-            }else{
-                System.out.println(i + " " + tempValue + "  " + ar.get(i) + "  " + ar.get(i+1));
-                if(tempValue>1){
-                    result+= (tempValue/2);
-                }
-                tempValue=0;
+        List<Integer> distinct = ar.stream().distinct().collect(Collectors.toList());
+
+        for(int i=0 ; i<distinct.size() ; i++){
+            int count = Collections.frequency(ar,distinct.get(i));
+            if(count>1) {
+                result += (count/2);
             }
         }
         return result;

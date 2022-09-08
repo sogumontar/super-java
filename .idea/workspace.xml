@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0ee5d885-a5a2-404f-929e-07f14e45703f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/banksoal/ProblemSolving/SalesByMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/banksoal/ProblemSolving/SalesByMatch.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -85,11 +86,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/banksoal/SeaLabs/FindMaxDolls.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="258">
-              <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+            <state relative-caret-position="408">
+              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/banksoal/ProblemSolving/SalesByMatch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="48" column="22" lean-forward="true" selection-start-line="33" selection-start-column="8" selection-end-line="48" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -167,11 +180,11 @@
         <option value="$PROJECT_DIR$/src/banksoal/LeetCode/SQL/183._Customers_Who_Never_Order.sql" />
         <option value="$PROJECT_DIR$/src/banksoal/LeetCode/SQL/1873_Calculate_Special_Bonus.sql" />
         <option value="$PROJECT_DIR$/src/banksoal/ProblemSolving/TimeConversion.java" />
-        <option value="$PROJECT_DIR$/src/banksoal/ProblemSolving/SalesByMatch.java" />
         <option value="$PROJECT_DIR$/src/banksoal/Base/BaseRequest.java" />
         <option value="$PROJECT_DIR$/src/banksoal/SeaLabs/TakeTheMin.java" />
         <option value="$PROJECT_DIR$/src/banksoal/BaseRequest.java" />
         <option value="$PROJECT_DIR$/src/banksoal/SeaLabs/FindMaxDolls.java" />
+        <option value="$PROJECT_DIR$/src/banksoal/ProblemSolving/SalesByMatch.java" />
       </list>
     </option>
   </component>
@@ -185,7 +198,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -209,18 +221,26 @@
               <item name="super-java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="banksoal" type="462c0819:PsiDirectoryNode" />
+              <item name="ProblemSolving" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="super-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="super-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="banksoal" type="462c0819:PsiDirectoryNode" />
               <item name="SeaLabs" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1662265722774" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1662310967967" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -370,17 +390,19 @@
       <workItem from="1659536607675" duration="2643000" />
       <workItem from="1660128143047" duration="931000" />
       <workItem from="1660303072400" duration="1122000" />
-      <workItem from="1662090080083" duration="3385000" />
+      <workItem from="1662090080083" duration="3570000" />
+      <workItem from="1662610335089" duration="434000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="103622000" />
+    <option name="totallyTimeSpent" value="104241000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.40271816" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.40844062" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -394,7 +416,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3048193" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3048193" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="智能研发" order="10" />
@@ -678,16 +700,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/banksoal/ProblemSolving/SalesByMatch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="36" column="28" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/banksoal/Base/BaseRequest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -726,6 +738,7 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/banksoal/BaseRequest.java" />
     <entry file="file://$PROJECT_DIR$/src/banksoal/BusNeeded.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -775,13 +788,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/banksoal/BaseRequest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/banksoal/ProblemSolving/DesignerPDFViewer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -791,8 +797,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/banksoal/SeaLabs/FindMaxDolls.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+        <state relative-caret-position="408">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/banksoal/ProblemSolving/SalesByMatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="48" column="22" lean-forward="true" selection-start-line="33" selection-start-column="8" selection-end-line="48" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
