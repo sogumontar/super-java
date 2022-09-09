@@ -1,17 +1,15 @@
 package banksoal.ProblemSolving;
 
-import java.io.*;
-import java.util.*;
-import java.util.stream.Stream;
+import banksoal.BaseRequest;
 
-import static java.util.stream.Collectors.joining;
-import static java.util.stream.Collectors.toList;
+import java.util.ArrayList;
+import java.util.List;
 
 /**
  * @author Sogumontar Hendra Simangunsong
  * @version : BreakingTheRecords, v 0.1 2/17/22 9:42 PM Sogumontar Hendra Exp $$
  */
-public class BreakingTheRecords {
+public class BreakingTheRecords extends BaseRequest {
     /*
      * Complete the 'breakingRecords' function below.
      *
@@ -45,12 +43,8 @@ public class BreakingTheRecords {
     }
 
     public static void main(String[] args) {
-        List<Integer> data = new ArrayList<>();
-        Scanner sc = new Scanner(System.in);
-        int inp = sc.nextInt();
-        for(int i=0 ; i<inp ; i++){
-            data.add(sc.nextInt());
-        }
+        int inp = singleIntegerRequest();
+        List<Integer> data = listOfIntegerRequest(inp);
         List<Integer> result =  breakingRecords(data);
         System.out.println(result);
     }

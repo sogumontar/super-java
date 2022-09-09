@@ -1,17 +1,16 @@
 package banksoal.ProblemSolving;
 
-import java.util.Scanner;
+import banksoal.BaseRequest;
 
 /**
  * @author Sogumontar Hendra Simangunsong
  * @version : FindDigits, v 0.1 4/11/22 10:22 AM Sogumontar Hendra Exp $$
  */
-public class FindDigits {
+public class FindDigits extends BaseRequest {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int n = sc.nextInt();
+        int n = singleIntegerRequest();
         for(int i=0 ; i<n ; i++){
-            System.out.println(findDigits(sc.nextInt()));
+            System.out.println(findDigits(singleIntegerRequest()));
         }
 
     }

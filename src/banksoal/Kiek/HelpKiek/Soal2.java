@@ -1,18 +1,17 @@
 package banksoal.Kiek.HelpKiek;
 
-import java.util.Scanner;
+import banksoal.BaseRequest;
 
 /**
  * @author Sogumontar Hendra Simangunsong
  * @version : Soal2, v 0.1 4/19/22 10:53 PM Sogumontar Hendra Exp $$
  */
-public class Soal2 {
+public class Soal2 extends BaseRequest {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
         System.out.println("Jam Masuk : ");
-        int jamMasuk = sc.nextInt();
+        int jamMasuk = singleIntegerRequest();
         System.out.println("Jam Keluar : ");
-        int jamKeluar = sc.nextInt();
+        int jamKeluar = singleIntegerRequest();
         System.out.println(countCost(jamMasuk,jamKeluar));
     }
 

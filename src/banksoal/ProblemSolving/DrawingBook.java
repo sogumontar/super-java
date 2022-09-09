@@ -5,14 +5,12 @@ package banksoal.ProblemSolving;
  * @version : DrawingBook, v 0.1 2/23/22 3:22 PM Sogumontar Hendra Exp $$
  */
 
-import java.io.IOException;
-import java.util.Scanner;
+import banksoal.BaseRequest;
 
-public class DrawingBook {
-    public static void main(String[] args) throws IOException {
-        Scanner sc = new Scanner(System.in);
-        int n = sc.nextInt();
-        int p = sc.nextInt();
+public class DrawingBook extends BaseRequest {
+    public static void main(String[] args) {
+        int n = singleIntegerRequest();
+        int p = singleIntegerRequest();
         System.out.println(pageCount(n,p));
 
     }

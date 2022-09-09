@@ -8,16 +8,12 @@ import java.util.Scanner;
 /**
  * Created by Sogumontar Hendra Simangunsong on 7/3/2021.
  */
-public class Bababibi {
+public class Bababibi extends BaseRequest{
   public static void main(String[] args) {
-    Scanner in = new Scanner(System.in);
-    int inp = in.nextInt();
-    List<Integer> numbers = new ArrayList<>();
+    int inp = singleIntegerRequest();
+    List<Integer> numbers = listOfIntegerRequest(inp);
     List<Integer> odd = new ArrayList<>();
     List<Integer> even = new ArrayList<>();
-    for (int i = 0; i < inp; i++) {
-      numbers.add(in.nextInt());
-    }
     for (int i=0 ; i<inp ; i++){
       if(numbers.get(i)%2==0){
         odd.add(numbers.get(i));

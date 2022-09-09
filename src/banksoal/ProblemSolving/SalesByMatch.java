@@ -1,23 +1,19 @@
 package banksoal.ProblemSolving;
 
-import java.util.ArrayList;
+import banksoal.BaseRequest;
+
 import java.util.Collections;
 import java.util.List;
-import java.util.Scanner;
 import java.util.stream.Collectors;
 
 /**
  * @author Sogumontar Hendra Simangunsong
  * @version : SalesByMatch, v 0.1 8/10/22 5:42 PM Sogumontar Hendra Exp $$
  */
-public class SalesByMatch {
+public class SalesByMatch extends BaseRequest {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int val = sc.nextInt();
-        List<Integer> list = new ArrayList<>();
-        for(int i=0 ; i<val ; i++){
-            list.add(sc.nextInt());
-        }
+        int val = singleIntegerRequest();
+        List<Integer> list = listOfIntegerRequest(val);
         System.out.println(sockMerchant(val,list));
     }
     public static int sockMerchant(int n, List<Integer> ar) {

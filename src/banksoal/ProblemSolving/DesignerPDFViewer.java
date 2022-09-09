@@ -1,14 +1,13 @@
 package banksoal.ProblemSolving;
 
-import java.util.ArrayList;
+import banksoal.BaseRequest;
 import java.util.List;
-import java.util.Scanner;
 
 /**
  * @author Sogumontar Hendra Simangunsong
  * @version : DesignerPDFViewer, v 0.1 3/7/22 5:34 PM Sogumontar Hendra Exp $$
  */
-public class DesignerPDFViewer {
+public class DesignerPDFViewer extends BaseRequest {
     public static int designerPdfViewer(List<Integer> h, String word) {
         // Write your code here
         int max=0;
@@ -25,12 +24,8 @@ public class DesignerPDFViewer {
     }
 
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        List<Integer> h = new ArrayList<>();
-        for(int i=0 ; i<=25 ; i++){
-            h.add(sc.nextInt());
-        }
-        String word = sc.next();
+        List<Integer> h = listOfIntegerRequest(singleIntegerRequest());
+        String word = singleStringRequest();
         System.out.println(designerPdfViewer(h,word));
 
     }

@@ -1,5 +1,7 @@
 package banksoal.ProblemSolving;
 
+import banksoal.BaseRequest;
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
@@ -9,7 +11,7 @@ import java.util.Scanner;
  * @author Sogumontar Hendra Simangunsong
  * @version : MigratoryBirds, v 0.1 2/18/22 9:26 AM Sogumontar Hendra Exp $$
  */
-public class MigratoryBirds {
+public class MigratoryBirds extends BaseRequest {
     public static int migratoryBirds(List<Integer> arr) {
         // Write your code here
         int result =0;
@@ -37,13 +39,8 @@ public class MigratoryBirds {
     }
 
     public static void main(String[] args) {
-        List<Integer> data = new ArrayList<>();
-        Scanner sc = new Scanner(System.in);
-        int inp = sc.nextInt();
-        for(int i=0 ; i<inp ; i++){
-            data.add(sc.nextInt());
-        }
-        Integer result =  migratoryBirds(data);
-        System.out.println(result);
+        int inp = singleIntegerRequest();
+        List<Integer> data = listOfIntegerRequest(inp);
+        System.out.println( migratoryBirds(data));
     }
 }

@@ -8,7 +8,7 @@ import java.util.Scanner;
 /**
  * Created by Sogumontar Hendra Simangunsong on 8/21/2021.
  */
-public class Segment {
+public class Segment extends BaseRequest{
   public static int segment(int x, List<Integer> arr) {
     // Write your code here
     List<Integer> result = new ArrayList<>();
@@ -25,13 +25,9 @@ public class Segment {
     return Collections.max(result,null);
   }
   public static void main(String[] args) {
-    Scanner sc = new Scanner(System.in);
-    int x = sc.nextInt();
-    int n = sc.nextInt();
-    List<Integer> list = new ArrayList<>();
-    for(int i=0 ; i<n ; i++){
-      list.add(sc.nextInt());
-    }
+    int x = singleIntegerRequest();
+    int n = singleIntegerRequest();
+    List<Integer> list = listOfIntegerRequest(n);
     System.out.println(segment(x, list));
   }
 }

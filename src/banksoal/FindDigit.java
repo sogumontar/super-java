@@ -5,6 +5,7 @@ package banksoal;
  */
 public class FindDigit {
   public static void main(String[] args) {
+
     digit(100);
   }
   public static void digit(int number){

@@ -1,18 +1,15 @@
 package banksoal.ProblemSolving;
 
+import banksoal.BaseRequest;
 import java.time.YearMonth;
-import java.util.Scanner;
 
 /**
  * @author Sogumontar Hendra Simangunsong
  * @version : DayOfTheProgrammer, v 0.1 7/1/22 3:41 PM Sogumontar Hendra Exp $$
  */
-public class DayOfTheProgrammer {
+public class DayOfTheProgrammer extends BaseRequest {
     public static void main(String[] args) {
-
-        Scanner sc = new Scanner(System.in);
-
-        System.out.println(dayOfProgrammer(sc.nextInt()));
+        System.out.println(dayOfProgrammer(singleIntegerRequest()));
     }
     public static String dayOfProgrammer(int year) {
         int totalDays =0;

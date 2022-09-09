@@ -1,12 +1,12 @@
 package banksoal.ProblemSolving;
 
-import java.util.Scanner;
+import banksoal.BaseRequest;
 
 /**
  * @author Sogumontar Hendra Simangunsong
  * @version : CountingValleys, v 0.1 2/25/22 10:44 AM Sogumontar Hendra Exp $$
  */
-public class CountingValleys {
+public class CountingValleys extends BaseRequest {
     public static int countingValleys(int steps, String path) {
         // Write your code here
         int valleys=0;
@@ -33,9 +33,8 @@ public class CountingValleys {
     }
 
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int inp = sc.nextInt();
-        String path = sc.next();
+        int inp = singleIntegerRequest();
+        String path = singleStringRequest();
         System.out.println(countingValleys(inp,path));
 
     }

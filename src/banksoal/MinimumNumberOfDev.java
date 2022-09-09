@@ -1,22 +1,16 @@
 package banksoal;
 
-import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
-import java.util.Scanner;
 
 /**
  * Created by Sogumontar Hendra Simangunsong on 9/26/2021.
  */
-public class MinimumNumberOfDev {
+public class MinimumNumberOfDev extends BaseRequest{
   public static void main(String[] args) {
-    Scanner sc = new Scanner(System.in);
-    int a = sc.nextInt();
-    List<Integer> inp = new ArrayList<>();
-    for (int i = 0; i < a; i++) {
-      inp.add(sc.nextInt());
-    }
-    int b = sc.nextInt();
+    int a =singleIntegerRequest();
+    List<Integer> inp = listOfIntegerRequest(a);
+    int b = singleIntegerRequest();
     System.out.println(Solution(inp, b));
   }
   public static int Solution(List<Integer> tasks, int limit){

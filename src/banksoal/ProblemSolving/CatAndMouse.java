@@ -1,18 +1,16 @@
 package banksoal.ProblemSolving;
 
-import java.util.Scanner;
+import banksoal.BaseRequest;
+import java.util.List;
 
 /**
  * @author Sogumontar Hendra Simangunsong
  * @version : CatAndMouse, v 0.1 2/24/22 9:45 AM Sogumontar Hendra Exp $$
  */
-public class CatAndMouse {
+public class CatAndMouse extends BaseRequest {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int x = sc.nextInt();
-        int y = sc.nextInt();
-        int z = sc.nextInt();
-        System.out.println(catAndMouse(x,y,z));
+        List<Integer> list = listOfIntegerRequest(3);
+        System.out.println(catAndMouse(list.get(0),list.get(1),list.get(2)));
     }
     static String catAndMouse(int x, int y, int z) {
         String result = "Cat A";

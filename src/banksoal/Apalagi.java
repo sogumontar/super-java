@@ -1,11 +1,9 @@
 package banksoal;
 
-import java.util.Scanner;
-
 /**
  * Created by Sogumontar Hendra Simangunsong on 7/3/2021.
  */
-public class Apalagi {
+public class Apalagi extends BaseRequest{
   static void printPermutn(String str, String ans)
   {
 
@@ -27,8 +25,7 @@ public class Apalagi {
 
   public static void main(String[] args)
   {
-    Scanner in = new Scanner(System.in);
-    String s = in.next();
+    String s = singleStringRequest();
     printPermutn(s, "");
   }
 }

@@ -1,22 +1,16 @@
 package banksoal.ProblemSolving;
 
-import java.util.ArrayList;
-import java.util.Collections;
+import banksoal.BaseRequest;
 import java.util.List;
-import java.util.Scanner;
 
 /**
  * @author Sogumontar Hendra Simangunsong
  * @version : PickingNumbers, v 0.1 3/2/22 5:58 PM Sogumontar Hendra Exp $$
  */
-public class PickingNumbers {
+public class PickingNumbers extends BaseRequest {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        List<Integer> list = new ArrayList<>();
-        int n = sc.nextInt();
-        for(int i=0 ; i<n ; i++ ){
-            list.add(sc.nextInt());
-        }
+        int n = singleIntegerRequest();
+        List<Integer> list = listOfIntegerRequest(n);
         System.out.println(pickingNumbers(list));
     }
     public static int pickingNumbers(List<Integer> a) {

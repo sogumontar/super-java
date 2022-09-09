@@ -1,16 +1,15 @@
 package banksoal.Kiek.HelpKiek;
 
-import java.util.Scanner;
+import banksoal.BaseRequest;
 
 /**
  * @author Sogumontar Hendra Simangunsong
  * @version : Soal3, v 0.1 4/19/22 10:59 PM Sogumontar Hendra Exp $$
  */
-public class Soal3 {
+public class Soal3 extends BaseRequest {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int N = sc.nextInt();
-        String Nilai = sc.next();
+        int N = singleIntegerRequest();
+        String Nilai =singleStringRequest();
         System.out.println(solution(N,Nilai));
 
     }

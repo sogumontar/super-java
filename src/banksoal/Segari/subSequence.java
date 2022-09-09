@@ -1,37 +1,30 @@
 package banksoal.Segari;
 
-import java.util.ArrayList;
+import banksoal.BaseRequest;
+
 import java.util.List;
-import java.util.Scanner;
 
 /**
  * @author Sogumontar Hendra Simangunsong
  * @version : subSequence, v 0.1 6/29/22 1:06 PM Sogumontar Hendra Exp $$
  */
-public class subSequence {
+public class subSequence extends BaseRequest {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        List<Integer> listData = new ArrayList<>();
-        List<Integer> listSequence = new ArrayList<>();
         System.out.println("Input Number");
-        int num = sc.nextInt();
+        int num = singleIntegerRequest();
 
         System.out.println("Input sequence");
-        int numSeq = sc.nextInt();
+        int numSeq = singleIntegerRequest();
+        List<Integer> listData ;
+        List<Integer> listSequence ;
 
         // for Data
-
         System.out.println("Input data Number");
-        for(int i=0 ; i<num ; i++){
-            listData.add(sc.nextInt());
-        }
+        listData = listOfIntegerRequest(num);
 
         System.out.println("Input data Sequence");
         // for sequence
-        for(int i=0 ; i<numSeq ; i++){
-            listSequence.add(sc.nextInt());
-        }
-
+        listSequence= listOfIntegerRequest(numSeq);
         System.out.println(checkIfSubSequence(listData,listSequence));
 
     }

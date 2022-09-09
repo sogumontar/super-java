@@ -1,29 +1,24 @@
 package banksoal.Segari;
 
+import banksoal.BaseRequest;
+
 import java.util.*;
 
 /**
  * @author Sogumontar Hendra Simangunsong
  * @version : checkCumulateResult, v 0.1 6/30/22 4:13 PM Sogumontar Hendra Exp $$
  */
-public class checkCumulateResult {
+public class checkCumulateResult extends BaseRequest {
 
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        List<Integer> data1 = new ArrayList<>();
-        List<Integer> data2 = new ArrayList<>();
-        int num1 = sc.nextInt();
+        int num1 = singleIntegerRequest();
+        List<Integer> data1 = listOfIntegerRequest(num1);
 
-        for(int i=0 ; i<num1 ; i++){
-            data1.add(sc.nextInt());
-        }
-
-        int num2 = sc.nextInt();
+        int num2 = singleIntegerRequest();
 
         Collections.sort(data1);
-
         for(int i=0 ; i<num2 ; i++){
-            checkResultCumulate(data1, sc.nextInt());
+            checkResultCumulate(data1, singleIntegerRequest());
         }
 
     }

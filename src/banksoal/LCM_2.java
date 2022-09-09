@@ -1,17 +1,15 @@
 package banksoal;
 
-import java.util.Scanner;
+import java.util.List;
 
 /**
  * @author Sogumontar Hendra Simangunsong
  * @version : LCM_2, v 0.1 2/12/22 4:14 PM Sogumontar Hendra Exp $$
  */
-public class LCM_2 {
+public class LCM_2 extends BaseRequest{
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int a = sc.nextInt();
-        int b = sc.nextInt();
-        System.out.println(lcm(a,b));
+        List<Integer> requests = listOfIntegerRequest(2);
+        System.out.println(lcm(requests.get(0),requests.get(1)));
     }
     public static int lcm(int number1, int number2) {
         if (number1 == 0 || number2 == 0) {

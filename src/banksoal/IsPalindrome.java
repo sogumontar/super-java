@@ -3,9 +3,9 @@ package banksoal;
 /**
  * Created by Sogumontar Hendra Simangunsong on 3/3/2021.
  */
-public class IsPalindrome {
+public class IsPalindrome extends BaseRequest{
   public static void main(String[] args) {
-      System.out.print(isPalindrome("abbad"));
+      System.out.print(isPalindrome(singleStringRequest()));
   }
   static String isPalindrome(String str)
   {

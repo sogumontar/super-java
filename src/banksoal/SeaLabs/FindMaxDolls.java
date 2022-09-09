@@ -1,30 +1,23 @@
 package banksoal.SeaLabs;
 
 
-import java.util.ArrayList;
+import banksoal.BaseRequest;
+
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
-import java.util.Scanner;
 
 /**
  * @author Sogumontar Hendra Simangunsong
  * @version : FindMaxDolls, v 0.1 9/2/22 10:50 AM Sogumontar Hendra Exp $$
  */
-public class FindMaxDolls  {
+public class FindMaxDolls extends BaseRequest {
     static int result=0;
     public static void main(String[] args) {
-        List<Integer> list = new ArrayList<>();
-        Scanner sc = new Scanner(System.in);
-        int N = sc.nextInt();
-
-        for(int i=0 ; i<N ; i++){
-            list.add(sc.nextInt());
-        }
-
+        int N = singleIntegerRequest();
+        List<Integer> list = listOfIntegerRequest(N);
         Collections.sort(list);
         System.out.println(findMaxDoll(list));
-
     }
 
     static int findMaxDoll(List<Integer> list){

@@ -1,20 +1,20 @@
 package banksoal.SeaLabs;
 
+import banksoal.BaseRequest;
+
 import java.util.Arrays;
-import java.util.Scanner;
 
 /**
  * @author Sogumontar Hendra Simangunsong
  * @version : TakeTheMin, v 0.1 8/13/22 10:14 AM Sogumontar Hendra Exp $$
  */
-public class TakeTheMin {
+public class TakeTheMin extends BaseRequest {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int M = sc.nextInt();
-        int dataLength = sc.nextInt();
+        int M = singleIntegerRequest();
+        int dataLength = singleIntegerRequest();
         int datas[] = new int[100];
         for(int i=0 ; i<dataLength ; i++){
-            datas[i]= sc.nextInt();
+            datas[i]= singleIntegerRequest();
         }
         System.out.println(maxValue(M,datas));
     }

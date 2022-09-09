@@ -1,12 +1,11 @@
 package banksoal;
 
 import java.util.HashMap;
-import java.util.Scanner;
 
 /**
  * Created by Sogumontar Hendra Simangunsong on 7/3/2021.
  */
-public class LupaBulan {
+public class LupaBulan extends BaseRequest{
   public static void main(String args[]) {
     HashMap<Integer, String> map = new HashMap<Integer, String>();//Creating HashMap
     map.put(1, "Januari");  //Put elements in Map
@@ -21,8 +20,8 @@ public class LupaBulan {
     map.put(10, "Oktober");
     map.put(11, "November");
     map.put(12, "Desember");
-    Scanner inp = new Scanner(System.in);
-    int inputan = inp.nextInt();
+
+    int inputan = singleIntegerRequest();
     int depan = inputan - 1;
     int belakang = inputan + 1;
 

@@ -3,7 +3,7 @@ package banksoal;
 /**
  * Created by Sogumontar Hendra Simangunsong on 9/23/2021.
  */
-public class IsPrime {
+public class IsPrime extends BaseRequest{
   static boolean isPrime(int n, int i)
   {
     if (n <= 2)
@@ -32,7 +32,7 @@ public class IsPrime {
   public static void main(String[] args)
   {
 
-    int n = 4;
+    int n = singleIntegerRequest();
 
     if (isPrime(n, 2))
       System.out.println(1);

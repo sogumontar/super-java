@@ -1,15 +1,16 @@
 package banksoal.Pattern;
 
+import banksoal.BaseRequest;
+
 import java.util.Scanner;
 
 /**
  * Created by Sogumontar Hendra Simangunsong on 7/31/2021.
  */
-public class NumberPattern {
+public class NumberPattern extends BaseRequest {
   public static void main(String[] args) {
-    Scanner sc = new Scanner(System.in);
-    int start = sc.nextInt();
-    int end = sc.nextInt();
+    int start = singleIntegerRequest();
+    int end = singleIntegerRequest();
     int ind=0;
     int val=0;
     for(int i=start ; i<=end ; i++){
