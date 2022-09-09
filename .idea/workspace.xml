@@ -2,46 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ee5d885-a5a2-404f-929e-07f14e45703f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/super-java/banksoal/Apalagi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/super-java/banksoal/Apalagi.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/super-java/banksoal/FindDigit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/super-java/banksoal/FindDigit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/super-java/banksoal/IsPalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/super-java/banksoal/IsPalindrome.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/super-java/banksoal/IsPrime.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/super-java/banksoal/IsPrime.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/super-java/banksoal/LCM_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/super-java/banksoal/LCM_2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/super-java/banksoal/ProblemSolving/SalesByMatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/super-java/banksoal/ProblemSolving/SalesByMatch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/super-java/banksoal/SeaLabs/FindMaxDolls.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/super-java/banksoal/SeaLabs/FindMaxDolls.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/banksoal/Apalagi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/banksoal/Apalagi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/banksoal/Bababibi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/banksoal/Bababibi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/banksoal/Base/BaseRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/banksoal/FindDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/banksoal/FindDigit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/banksoal/IsPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/banksoal/IsPalindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/banksoal/IsPrime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/banksoal/IsPrime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/banksoal/Kiek/HelpKiek/Soal1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/banksoal/Kiek/HelpKiek/Soal1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/banksoal/Kiek/HelpKiek/Soal2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/banksoal/Kiek/HelpKiek/Soal2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/banksoal/Kiek/HelpKiek/Soal3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/banksoal/Kiek/HelpKiek/Soal3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/banksoal/LCM_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/banksoal/LCM_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/banksoal/LupaBulan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/banksoal/LupaBulan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/banksoal/MinimumNumberOfDev.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/banksoal/MinimumNumberOfDev.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/banksoal/Pattern/NumberPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/banksoal/Pattern/NumberPattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/banksoal/Pattern/TrianglePattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/banksoal/Pattern/TrianglePattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/banksoal/Pridential_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/banksoal/Pridential_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/banksoal/ProblemSolving/BillDivision.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/banksoal/ProblemSolving/BillDivision.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/banksoal/ProblemSolving/BreakingTheRecords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/banksoal/ProblemSolving/BreakingTheRecords.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/banksoal/ProblemSolving/CatAndMouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/banksoal/ProblemSolving/CatAndMouse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/banksoal/ProblemSolving/CountingValleys.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/banksoal/ProblemSolving/CountingValleys.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/banksoal/ProblemSolving/DayOfTheProgrammer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/banksoal/ProblemSolving/DayOfTheProgrammer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/banksoal/ProblemSolving/DesignerPDFViewer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/banksoal/ProblemSolving/DesignerPDFViewer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/banksoal/ProblemSolving/DrawingBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/banksoal/ProblemSolving/DrawingBook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/banksoal/ProblemSolving/FindDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/banksoal/ProblemSolving/FindDigits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/banksoal/ProblemSolving/GradingStudents.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/banksoal/ProblemSolving/GradingStudents.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/banksoal/ProblemSolving/MigratoryBirds.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/banksoal/ProblemSolving/MigratoryBirds.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/banksoal/ProblemSolving/NumberLineJumps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/banksoal/ProblemSolving/NumberLineJumps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/banksoal/ProblemSolving/PickingNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/banksoal/ProblemSolving/PickingNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/banksoal/ProblemSolving/SalesByMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/banksoal/ProblemSolving/SalesByMatch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/banksoal/ProblemSolving/TheHurdleRace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/banksoal/ProblemSolving/TheHurdleRace.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/banksoal/SeaLabs/FindMaxDolls.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/banksoal/SeaLabs/FindMaxDolls.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/banksoal/Segment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/banksoal/Segment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/banksoal/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/banksoal/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/banksoal/BaseRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/banksoal/BaseRequest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,60 +14,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/banksoal/ProblemSolving/DrawingBook.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/banksoal/ProblemSolving/FindDigits.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/banksoal/ProblemSolving/GradingStudents.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-270">
-              <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/banksoal/ProblemSolving/MigratoryBirds.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
-              <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/banksoal/ProblemSolving/NumberLineJumps.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="24">
-              <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/banksoal/ProblemSolving/PickingNumbers.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/banksoal/ProblemSolving/SalesByMatch.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
@@ -115,11 +22,83 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/banksoal/SeaLabs/FindMaxDolls.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="19" column="29" lean-forward="true" selection-start-line="19" selection-start-column="29" selection-end-line="23" selection-end-column="9" />
+            <state relative-caret-position="105">
+              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/banksoal/SeaLabs/TakeTheMin.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/banksoal/Segari/checkCumulateResult.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/banksoal/Segari/subSequence.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/banksoal/URI/URI_1181.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/banksoal/ProblemSolving/BetweenTwoSets.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="213">
+              <caret line="32" column="26" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/banksoal/BaseRequest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -169,15 +148,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/banksoal/URI/URI_1183.java" />
         <option value="$PROJECT_DIR$/src/banksoal/URI/URI_1182.java" />
         <option value="$PROJECT_DIR$/src/banksoal/URI/URI_1181.java" />
         <option value="$PROJECT_DIR$/src/banksoal/Kiek/Soal1.java" />
         <option value="$PROJECT_DIR$/src/banksoal/Kiek/Soal2.java" />
         <option value="$PROJECT_DIR$/src/banksoal/Cermati/Main.java" />
         <option value="$PROJECT_DIR$/src/banksoal/Cermati/CermatiTest.java" />
-        <option value="$PROJECT_DIR$/src/banksoal/Segari/subSequence.java" />
-        <option value="$PROJECT_DIR$/src/banksoal/Segari/checkCumulateResult.java" />
         <option value="$PROJECT_DIR$/src/banksoal/Kiek/KiekPattern.java" />
         <option value="$PROJECT_DIR$/src/banksoal/LeetCode/SQL/big-countries.sql" />
         <option value="$PROJECT_DIR$/src/banksoal/SQL/DANA-fundcheck.sql" />
@@ -187,7 +163,6 @@
         <option value="$PROJECT_DIR$/src/banksoal/LeetCode/SQL/1873_Calculate_Special_Bonus.sql" />
         <option value="$PROJECT_DIR$/src/banksoal/ProblemSolving/TimeConversion.java" />
         <option value="$PROJECT_DIR$/src/banksoal/Base/BaseRequest.java" />
-        <option value="$PROJECT_DIR$/src/banksoal/SeaLabs/TakeTheMin.java" />
         <option value="$PROJECT_DIR$/src/banksoal/Apalagi.java" />
         <option value="$PROJECT_DIR$/src/banksoal/FindDigit.java" />
         <option value="$PROJECT_DIR$/src/banksoal/IsPalindrome.java" />
@@ -200,7 +175,6 @@
         <option value="$PROJECT_DIR$/src/banksoal/Segment.java" />
         <option value="$PROJECT_DIR$/src/banksoal/Bababibi.java" />
         <option value="$PROJECT_DIR$/src/banksoal/Kiek/HelpKiek/Soal1.java" />
-        <option value="$PROJECT_DIR$/src/banksoal/BaseRequest.java" />
         <option value="$PROJECT_DIR$/src/banksoal/Kiek/HelpKiek/Soal2.java" />
         <option value="$PROJECT_DIR$/src/banksoal/Kiek/HelpKiek/Soal3.java" />
         <option value="$PROJECT_DIR$/src/banksoal/Pattern/NumberPattern.java" />
@@ -220,6 +194,11 @@
         <option value="$PROJECT_DIR$/src/banksoal/ProblemSolving/SalesByMatch.java" />
         <option value="$PROJECT_DIR$/src/banksoal/ProblemSolving/TheHurdleRace.java" />
         <option value="$PROJECT_DIR$/src/banksoal/SeaLabs/FindMaxDolls.java" />
+        <option value="$PROJECT_DIR$/src/banksoal/SeaLabs/TakeTheMin.java" />
+        <option value="$PROJECT_DIR$/src/banksoal/Segari/checkCumulateResult.java" />
+        <option value="$PROJECT_DIR$/src/banksoal/Segari/subSequence.java" />
+        <option value="$PROJECT_DIR$/src/banksoal/BaseRequest.java" />
+        <option value="$PROJECT_DIR$/src/banksoal/ProblemSolving/BetweenTwoSets.java" />
       </list>
     </option>
   </component>
@@ -256,73 +235,7 @@
               <item name="super-java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="banksoal" type="462c0819:PsiDirectoryNode" />
-              <item name="Cermati" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="super-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="super-java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="banksoal" type="462c0819:PsiDirectoryNode" />
-              <item name="Cermati" type="462c0819:PsiDirectoryNode" />
-              <item name="CermatiTest.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="super-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="super-java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="banksoal" type="462c0819:PsiDirectoryNode" />
-              <item name="Kiek" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="super-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="super-java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="banksoal" type="462c0819:PsiDirectoryNode" />
-              <item name="Kiek" type="462c0819:PsiDirectoryNode" />
-              <item name="HelpKiek" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="super-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="super-java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="banksoal" type="462c0819:PsiDirectoryNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="super-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="super-java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="banksoal" type="462c0819:PsiDirectoryNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="SQL" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="super-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="super-java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="banksoal" type="462c0819:PsiDirectoryNode" />
-              <item name="Pattern" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="super-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="super-java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="banksoal" type="462c0819:PsiDirectoryNode" />
               <item name="ProblemSolving" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="super-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="super-java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="banksoal" type="462c0819:PsiDirectoryNode" />
-              <item name="SeaLabs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="super-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="super-java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="banksoal" type="462c0819:PsiDirectoryNode" />
-              <item name="ExtendClass.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
@@ -334,7 +247,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1662714126027" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1662721409130" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -363,13 +276,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LCM_2">
+  <component name="RunManager" selected="Application.BetweenTwoSets">
     <configuration name="Apalagi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="banksoal.Apalagi" />
       <module name="super-java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="banksoal.Base.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BetweenTwoSets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="banksoal.ProblemSolving.BetweenTwoSets" />
+      <module name="super-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="banksoal.ProblemSolving.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -403,19 +329,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SalesByMatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="banksoal.ProblemSolving.SalesByMatch" />
-      <module name="super-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="banksoal.ProblemSolving.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TakeTheMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="banksoal.SeaLabs.TakeTheMin" />
       <module name="super-java" />
@@ -431,11 +344,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BetweenTwoSets" />
         <item itemvalue="Application.LCM_2" />
         <item itemvalue="Application.Apalagi" />
         <item itemvalue="Application.FindMaxDolls" />
         <item itemvalue="Application.TakeTheMin" />
-        <item itemvalue="Application.SalesByMatch" />
       </list>
     </recent_temporary>
   </component>
@@ -487,18 +400,17 @@
       <workItem from="1662090080083" duration="3570000" />
       <workItem from="1662610335089" duration="734000" />
       <workItem from="1662693671001" duration="105000" />
-      <workItem from="1662708785773" duration="3038000" />
+      <workItem from="1662708785773" duration="8704000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="107684000" />
+    <option name="totallyTimeSpent" value="113350000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.41988555" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.41988555" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -507,7 +419,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.49156627" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.49156627" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -534,45 +446,19 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/banksoal/ProblemSolving/BetweenTwoSets.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/banksoal/PerfectNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-15">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/banksoal/BaseRequest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/banksoal/Pridential_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/banksoal/PutToMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/banksoal/ReverseWordsAndLowerToUpper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/banksoal/Sempetgakya.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-977">
@@ -731,16 +617,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/banksoal/BaseRequest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -905,8 +781,68 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/banksoal/SeaLabs/FindMaxDolls.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="19" column="29" lean-forward="true" selection-start-line="19" selection-start-column="29" selection-end-line="23" selection-end-column="9" />
+        <state relative-caret-position="105">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/banksoal/SeaLabs/TakeTheMin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/banksoal/Segari/checkCumulateResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/banksoal/Segari/subSequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/banksoal/URI/URI_1181.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/banksoal/BaseRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/banksoal/ProblemSolving/BetweenTwoSets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="32" column="26" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
