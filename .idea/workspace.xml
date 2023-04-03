@@ -14,23 +14,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/banksoal/ProblemSolving/ViralAdvertising.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/banksoal/Coky/Password.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
               <caret line="1" selection-start-line="1" selection-end-line="1" />
-              <folding>
-                <element signature="e#1289#1290#0" expanded="true" />
-                <element signature="e#1356#1357#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -39,20 +26,25 @@
         <entry file="file://$PROJECT_DIR$/src/banksoal/Coky/IsContainAlphabet.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/banksoal/Coky/TimeConversion.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" selection-start-line="7" selection-end-line="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/banksoal/Coky/TimeConversion.java">
+        <entry file="file://$PROJECT_DIR$/src/banksoal/ProblemSolving/ElectronicsShop.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" selection-start-line="7" selection-end-line="22" />
-              <folding>
-                <element signature="e#618#619#0" expanded="true" />
-                <element signature="e#654#655#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="167">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -147,7 +139,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/banksoal/LeetCode/SQL/big-countries.sql" />
         <option value="$PROJECT_DIR$/src/banksoal/SQL/DANA-fundcheck.sql" />
         <option value="$PROJECT_DIR$/src/banksoal/LeetCode/SQL/1757_RecyclableAndLowFatProducts.sql" />
         <option value="$PROJECT_DIR$/src/banksoal/LeetCode/SQL/584_FindCustomerReferee.sql" />
@@ -198,11 +189,12 @@
         <option value="$PROJECT_DIR$/src/banksoal/Coky/Password.java" />
         <option value="$PROJECT_DIR$/src/banksoal/Coky/IsContainAlphabet.java" />
         <option value="$PROJECT_DIR$/src/banksoal/Coky/TimeConversion.java" />
+        <option value="$PROJECT_DIR$/src/banksoal/ProblemSolving/ElectronicsShop.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="714" />
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
   <component name="ProjectView">
@@ -229,13 +221,6 @@
               <item name="super-java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="banksoal" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="super-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="super-java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="banksoal" type="462c0819:PsiDirectoryNode" />
-              <item name="Coky" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="super-java" type="b2602c69:ProjectViewProjectNode" />
@@ -274,7 +259,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1675667763911" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1680495028717" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -303,13 +288,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TimeConversion">
-    <configuration name="IsContainAlphabet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="banksoal.Coky.IsContainAlphabet" />
+  <component name="RunManager" selected="Application.ElectronicsShop">
+    <configuration name="ElectronicsShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="banksoal.ProblemSolving.ElectronicsShop" />
       <module name="super-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="banksoal.Coky.*" />
+          <option name="PATTERN" value="banksoal.ProblemSolving.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -317,12 +302,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IsPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="banksoal.IsPalindrome" />
+    <configuration name="IsContainAlphabet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="banksoal.Coky.IsContainAlphabet" />
       <module name="super-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="banksoal.*" />
+          <option name="PATTERN" value="banksoal.Coky.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -371,11 +356,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ElectronicsShop" />
         <item itemvalue="Application.TimeConversion" />
         <item itemvalue="Application.IsContainAlphabet" />
         <item itemvalue="Application.Password" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.IsPalindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -436,18 +421,19 @@
       <workItem from="1665913301378" duration="2060000" />
       <workItem from="1666939937231" duration="600000" />
       <workItem from="1668136955850" duration="146000" />
-      <workItem from="1675403193134" duration="4657000" />
+      <workItem from="1675403193134" duration="4682000" />
+      <workItem from="1680493857896" duration="1165000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="129491000" />
+    <option name="totallyTimeSpent" value="130681000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.47639486" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.48354793" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -456,8 +442,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28674698" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28674698" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -498,17 +484,16 @@
           <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/banksoal/ProblemSolving/ElectronicsShop.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/banksoal/_30DayCodeHackerRank/ConditionalStatement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-30">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/banksoal/_30DayCodeHackerRank/DataTypes.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -825,6 +810,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/banksoal/ProblemSolving/ViralAdvertising.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/banksoal/Coky/Password.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/banksoal/Coky/IsContainAlphabet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/banksoal/ProblemSolving/MigratoryBirds.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -879,39 +885,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/banksoal/ProblemSolving/ViralAdvertising.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/banksoal/Coky/Password.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-          <folding>
-            <element signature="e#1289#1290#0" expanded="true" />
-            <element signature="e#1356#1357#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/banksoal/Coky/IsContainAlphabet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/banksoal/Coky/TimeConversion.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" selection-start-line="7" selection-end-line="22" />
-          <folding>
-            <element signature="e#618#619#0" expanded="true" />
-            <element signature="e#654#655#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/banksoal/ProblemSolving/ElectronicsShop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
