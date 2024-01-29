@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0ee5d885-a5a2-404f-929e-07f14e45703f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/banksoal/soap/indosat/IndosatGoodsRecommendationyMock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/banksoal/soap/indosat/IndosatGoodsRecommendationyMock.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -320,9 +319,9 @@
       <recent name="$PROJECT_DIR$/src/banksoal" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MagicSquare">
-    <configuration name="MagicSquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="banksoal.ProblemSolving.MagicSquare" />
+  <component name="RunManager" selected="Application.ClimbingTheLeaderBoard">
+    <configuration name="ClimbingTheLeaderBoard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="banksoal.ProblemSolving.ClimbingTheLeaderBoard" />
       <module name="super-java" />
       <extension name="coverage">
         <pattern>
@@ -334,12 +333,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SoapRequestForMockTriMobile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="banksoal.soap.trimobile.SoapRequestForMockTriMobile" />
+    <configuration name="MagicSquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="banksoal.ProblemSolving.MagicSquare" />
       <module name="super-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="banksoal.soap.trimobile.*" />
+          <option name="PATTERN" value="banksoal.ProblemSolving.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -388,11 +387,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ClimbingTheLeaderBoard" />
         <item itemvalue="Application.MagicSquare" />
         <item itemvalue="Application.SoapResponseQueryOrderTriMobile" />
         <item itemvalue="Application.TriQueryOrderResponseParser" />
         <item itemvalue="Application.SoapResponseCreateOrderTriMobile" />
-        <item itemvalue="Application.SoapRequestForMockTriMobile" />
       </list>
     </recent_temporary>
   </component>
@@ -464,7 +463,8 @@
       <workItem from="1692851363540" duration="1865000" />
       <workItem from="1692930360371" duration="10534000" />
       <workItem from="1704679610434" duration="357000" />
-      <workItem from="1706253884691" duration="2341000" />
+      <workItem from="1706253884691" duration="5946000" />
+      <workItem from="1706454177344" duration="148000" />
     </task>
     <servers />
   </component>
