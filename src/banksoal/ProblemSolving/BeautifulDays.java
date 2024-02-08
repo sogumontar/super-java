@@ -10,30 +10,23 @@ public class BeautifulDays {
 
     }
     public static int beautifulDays(int i, int j, int k) {
-
-        int result =0;
-        for(int a= i ; a<= j ; a++){
-            String num = String.valueOf(a);
-            num = reverse(num);
-            int reverseNum = Integer.parseInt(num);
-            double res=(a-reverseNum)/k;
-            if(res%1 !=0){
-
-            }else{
-                result++;
-            }
-        }
-
-        return result;
+        int result = 0;
         // Write your code here
+        for(int a=i ; a<=j ; a++){
+            String reverse = String.valueOf(a);
 
-    }
-    public static String reverse(String originalStr){
-        String reversedStr="";
-        for (int i = 0; i < originalStr.length(); i++) {
-            reversedStr = originalStr.charAt(i) + reversedStr;
+            StringBuilder output = new StringBuilder(reverse).reverse();
+            reverse = output.toString();
+            float rev = Math.abs(a-Integer.valueOf(reverse));
+            float res =(rev/(float)k);
+
+            if( !(res % 1 != 0 )){
+                result ++;
+            }
+
         }
-        return reversedStr;
+        return result;
     }
+
 
 }
