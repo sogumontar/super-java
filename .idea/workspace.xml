@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0ee5d885-a5a2-404f-929e-07f14e45703f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/super-java/banksoal/ProblemSolving/BeautifulDays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/super-java/banksoal/ProblemSolving/BeautifulDays.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -320,13 +319,13 @@
       <recent name="$PROJECT_DIR$/src/banksoal" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RepeatedString">
-    <configuration name="BeautifulDays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="banksoal.ProblemSolving.BeautifulDays" />
+  <component name="RunManager" selected="Application.sequenceEquation">
+    <configuration name="ComplexVersionTagBracket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="banksoal.Coky.Fazz.ComplexVersionTagBracket" />
       <module name="super-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="banksoal.ProblemSolving.*" />
+          <option name="PATTERN" value="banksoal.Coky.Fazz.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -334,12 +333,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClimbingTheLeaderBoard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="banksoal.ProblemSolving.ClimbingTheLeaderBoard" />
+    <configuration name="TagBracket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="banksoal.Coky.Fazz.TagBracket" />
       <module name="super-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="banksoal.ProblemSolving.*" />
+          <option name="PATTERN" value="banksoal.Coky.Fazz.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -347,12 +346,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MagicSquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="banksoal.ProblemSolving.MagicSquare" />
+    <configuration name="TagValidator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="banksoal.Coky.Fazz.TagValidator" />
       <module name="super-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="banksoal.ProblemSolving.*" />
+          <option name="PATTERN" value="banksoal.Coky.Fazz.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -360,12 +359,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RepeatedString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="banksoal.ProblemSolving.RepeatedString" />
+    <configuration name="Tagger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="banksoal.Coky.Fazz.Tagger" />
       <module name="super-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="banksoal.ProblemSolving.*" />
+          <option name="PATTERN" value="banksoal.Coky.Fazz.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -373,12 +372,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SoapResponseQueryOrderTriMobile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="banksoal.soap.trimobile.SoapResponseQueryOrderTriMobile" />
+    <configuration name="sequenceEquation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="banksoal.ProblemSolving.sequenceEquation" />
       <module name="super-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="banksoal.soap.trimobile.*" />
+          <option name="PATTERN" value="banksoal.ProblemSolving.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -388,11 +387,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RepeatedString" />
-        <item itemvalue="Application.BeautifulDays" />
-        <item itemvalue="Application.ClimbingTheLeaderBoard" />
-        <item itemvalue="Application.MagicSquare" />
-        <item itemvalue="Application.SoapResponseQueryOrderTriMobile" />
+        <item itemvalue="Application.sequenceEquation" />
+        <item itemvalue="Application.Tagger" />
+        <item itemvalue="Application.TagBracket" />
+        <item itemvalue="Application.ComplexVersionTagBracket" />
+        <item itemvalue="Application.TagValidator" />
       </list>
     </recent_temporary>
   </component>
@@ -468,6 +467,14 @@
       <workItem from="1706454177344" duration="148000" />
       <workItem from="1706499885194" duration="1157000" />
       <workItem from="1707388050246" duration="377000" />
+      <workItem from="1707665202994" duration="597000" />
+      <workItem from="1707703655912" duration="1181000" />
+      <workItem from="1716699334391" duration="4148000" />
+      <workItem from="1716953689905" duration="2164000" />
+      <workItem from="1717079447223" duration="11324000" />
+      <workItem from="1717341457062" duration="421000" />
+      <workItem from="1717388020137" duration="176000" />
+      <workItem from="1730389657156" duration="2729000" />
     </task>
     <servers />
   </component>
@@ -541,6 +548,46 @@
           <url>file://$PROJECT_DIR$/src/banksoal/Traveloka/slowestKey.java</url>
           <line>17</line>
           <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/banksoal/Coky/Fazz/TagValidator.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/banksoal/Coky/Fazz/TagValidator.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/banksoal/Coky/Fazz/TagValidator.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/banksoal/Coky/Fazz/ComplexVersionTagBracket.java</url>
+          <line>97</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/banksoal/Coky/Fazz/ComplexVersionTagBracket.java</url>
+          <line>94</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/banksoal/Coky/Fazz/Tagger.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/banksoal/Coky/Fazz/Tagger.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/banksoal/Coky/Fazz/Tagger.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="25" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
