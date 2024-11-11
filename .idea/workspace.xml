@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0ee5d885-a5a2-404f-929e-07f14e45703f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/super-java/banksoal/ProblemSolving/sequenceEquation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/super-java/banksoal/ProblemSolving/sequenceEquation.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -319,7 +320,7 @@
       <recent name="$PROJECT_DIR$/src/banksoal" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.sequenceEquation">
+  <component name="RunManager" selected="Application.JumpingOnCloud">
     <configuration name="ComplexVersionTagBracket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="banksoal.Coky.Fazz.ComplexVersionTagBracket" />
       <module name="super-java" />
@@ -333,12 +334,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TagBracket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="banksoal.Coky.Fazz.TagBracket" />
+    <configuration name="JumpingOnCloud" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="banksoal.ProblemSolving.JumpingOnCloud" />
       <module name="super-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="banksoal.Coky.Fazz.*" />
+          <option name="PATTERN" value="banksoal.ProblemSolving.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -346,8 +347,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TagValidator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="banksoal.Coky.Fazz.TagValidator" />
+    <configuration name="TagBracket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="banksoal.Coky.Fazz.TagBracket" />
       <module name="super-java" />
       <extension name="coverage">
         <pattern>
@@ -387,11 +388,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JumpingOnCloud" />
         <item itemvalue="Application.sequenceEquation" />
         <item itemvalue="Application.Tagger" />
         <item itemvalue="Application.TagBracket" />
         <item itemvalue="Application.ComplexVersionTagBracket" />
-        <item itemvalue="Application.TagValidator" />
       </list>
     </recent_temporary>
   </component>
@@ -474,7 +475,8 @@
       <workItem from="1717079447223" duration="11324000" />
       <workItem from="1717341457062" duration="421000" />
       <workItem from="1717388020137" duration="176000" />
-      <workItem from="1730389657156" duration="2729000" />
+      <workItem from="1730389657156" duration="3396000" />
+      <workItem from="1730822931560" duration="3079000" />
     </task>
     <servers />
   </component>
@@ -588,6 +590,11 @@
           <url>file://$PROJECT_DIR$/src/banksoal/Coky/Fazz/Tagger.java</url>
           <line>43</line>
           <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/banksoal/ProblemSolving/JumpingOnCloud.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="26" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
