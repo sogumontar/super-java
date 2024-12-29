@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ee5d885-a5a2-404f-929e-07f14e45703f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/banksoal/Grab/task3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/super-java/banksoal/ProblemSolving/JumpingOnCloud.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/super-java/banksoal/ProblemSolving/JumpingOnCloud.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -302,8 +300,11 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/simangunsongso/Documents/Hendra/super-java&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/simangunsongso/Documents/DANA/super-java&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -321,9 +322,22 @@
       <recent name="$PROJECT_DIR$/src/banksoal" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.task3">
+  <component name="RunManager" selected="Application.LibraryFine">
     <configuration name="JumpingOnCloud" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="banksoal.ProblemSolving.JumpingOnCloud" />
+      <module name="super-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="banksoal.ProblemSolving.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LibraryFine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="banksoal.ProblemSolving.LibraryFine" />
       <module name="super-java" />
       <extension name="coverage">
         <pattern>
@@ -341,19 +355,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="banksoal.Grab.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="sequenceEquation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="banksoal.ProblemSolving.sequenceEquation" />
-      <module name="super-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="banksoal.ProblemSolving.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -389,11 +390,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LibraryFine" />
         <item itemvalue="Application.task3" />
         <item itemvalue="Application.task1" />
         <item itemvalue="Application.demo" />
         <item itemvalue="Application.JumpingOnCloud" />
-        <item itemvalue="Application.sequenceEquation" />
       </list>
     </recent_temporary>
   </component>
