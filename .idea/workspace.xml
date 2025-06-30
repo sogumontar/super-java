@@ -298,7 +298,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ACM_ICPC.executor": "Run",
     "Application.CutTheStick.executor": "Run",
+    "Application.Greather.executor": "Run",
     "Application.JumpingOnClouds.executor": "Run",
     "Application.LibraryFine.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -325,9 +327,35 @@
       <recent name="$PROJECT_DIR$/src/banksoal" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.JumpingOnClouds">
+  <component name="RunManager" selected="Application.ACM_ICPC">
+    <configuration name="ACM_ICPC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="banksoal.ProblemSolving.ACM_ICPC" />
+      <module name="super-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="banksoal.ProblemSolving.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CutTheStick" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="banksoal.ProblemSolving.CutTheStick" />
+      <module name="super-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="banksoal.ProblemSolving.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Greather" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="banksoal.ProblemSolving.Greather" />
       <module name="super-java" />
       <extension name="coverage">
         <pattern>
@@ -365,39 +393,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="banksoal.Grab.task1" />
-      <module name="super-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="banksoal.Grab.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="banksoal.Grab.task3" />
-      <module name="super-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="banksoal.Grab.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ACM_ICPC" />
+        <item itemvalue="Application.Greather" />
         <item itemvalue="Application.JumpingOnClouds" />
         <item itemvalue="Application.CutTheStick" />
         <item itemvalue="Application.LibraryFine" />
-        <item itemvalue="Application.task3" />
-        <item itemvalue="Application.task1" />
       </list>
     </recent_temporary>
   </component>
@@ -632,6 +634,15 @@
           <url>file://$PROJECT_DIR$/src/banksoal/ProblemSolving/JumpingOnClouds.java</url>
           <line>27</line>
           <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/banksoal/ProblemSolving/ACM_ICPC.java</url>
+          <line>14</line>
+          <properties class="banksoal.ProblemSolving.ACM_ICPC" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="37" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
